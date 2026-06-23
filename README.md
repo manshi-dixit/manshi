@@ -1,3 +1,3 @@
 # demo
-this is my first repository
-author- Manshi Dixit
+This is my first Repository
+Author- Manshi Dixit
